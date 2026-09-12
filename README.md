@@ -60,7 +60,7 @@ Welcome to my digital playground, where I bridge the gap between robust software
 ---
 
 ### 📂 Repository Highlights
-* ☕ **[DSA-Java-Solutions](#)** *(Replace with your actual repo link)*: My daily commitment to sharpening problem-solving skills, data structures, and algorithmic logic.
+* ☕ **[DSA-Java-Solutions](#)** https://github.com/rishabhbhawsar/algorithmxlr8-submission-2026-07-27: My daily commitment to sharpening problem-solving skills, data structures, and algorithmic logic.
   
 ---
 
