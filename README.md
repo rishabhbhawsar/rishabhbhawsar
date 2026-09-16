@@ -51,6 +51,8 @@ and performance analysis in Java.
 - 🕒 Performance and complexity tracking across submissions
 - 🧩 Built for systematic, measurable skill progression
 
+**[DSA](https://github.com/rishabhbhawsar/DSA)** — LeetCode submissions, tracked in parallel for raw problem-solving volume.
+
 </td>
 </tr>
 </table>
@@ -103,7 +105,7 @@ and performance analysis in Java.
 <a href="mailto:rishabhbhawsar53@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="(https://www.linkedin.com/in/rishabh-bhawsar-409098262/)" target="(https://www.linkedin.com/in/rishabh-bhawsar-409098262/)">
+<a href="https://www.linkedin.com/in/rishabh-bhawsar-409098262/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
