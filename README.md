@@ -1,70 +1,109 @@
-# Hi there, I'm Rishabh Bhawsar! 👋
+<h1 align="center">Hi, I'm Rishabh Bhawsar 👋</h1>
+<h3 align="center">AI/ML Systems Engineer | Backend Architecture & Data Contracts</h3>
 
-I am a recent **Artificial Intelligence & Data Science** graduate from **Datta Meghe College of Engineering**. I am an aspiring **Software Development Engineer (SDE)** and **AI/ML Engineer** who loves building intelligent, full-stack systems and solving complex algorithmic problems. 
-
-Welcome to my digital playground, where I bridge the gap between robust software engineering and data-driven intelligence!
-
----
-
-### 🚀 What I'm Working On
-- 📈 **Data Structures & Algorithms:** Consistently solving and pushing my **Java** DSA solutions.
-- 🌐 **Full-Stack Development:** Building end-to-end web applications with modern JS ecosystems.
-- 🤖 **Artificial Intelligence:** Training models, handling data pipelines, and deploying with **Python**.
-- 🐳 **DevOps & Cloud:** Containerising applications and learning orchestration practices.
+<p align="center">
+I design and ship production-grade systems that enforce structure on unstructured data — 
+from LLM-driven compliance pipelines to high-throughput backend services.
+</p>
 
 ---
 
-### 🧰 Tech Stack & Tools
+### ⚙️ What I Build
+
+I engineer backend systems where correctness isn't optional — data contracts, async pipelines, 
+and LLM-as-a-Judge architectures that hold up under real-world load. My focus is the intersection 
+of applied AI and systems engineering: making probabilistic models behave like deterministic services.
+
+---
+
+### 🚀 Active Build
 
 <table>
-  <tr>
-    <td align="center" width="25%"><strong>Core Languages</strong></td>
-    <td align="center" width="25%"><strong>Full-Stack Web</strong></td>
-    <td align="center" width="25%"><strong>AI / ML & Backend</strong></td>
-    <td align="center" width="25%"><strong>DevOps & Tools</strong></td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>Java</li>
-        <li>JavaScript</li>
-        <li>Python</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>React.js</li>
-        <li>Redux</li>
-        <li>Node.js / Express.js</li>
-        <li>HTML5 / CSS3</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>Flask</li>
-        <li>MongoDB</li>
-        <li>NumPy / Pandas</li>
-        <li>Scikit-Learn</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>Docker</li>
-        <li>Kubernetes</li>
-        <li>Git / GitHub</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="100%">
+
+**[ICP Policy Evaluator](https://github.com)**
+Automated compliance gatekeeper using an **LLM-as-a-Judge** architecture to enforce rigid 
+business taxonomies onto unstructured merchant profiles.
+
+- ⚡ Asynchronous request pooling via `asyncio.gather` for high-throughput evaluation
+- 🧠 Structured taxonomy enforcement on unstructured input using OpenAI + Pydantic contracts
+- 🗃️ Redis caching layer to cut redundant LLM calls and reduce latency
+- 🔌 FastAPI backend built for reliability under concurrent load
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 📂 Repository Highlights
-* ☕ **[DSA-Java-Solutions](#)** https://github.com/rishabhbhawsar/algorithmxlr8-submission-2026-07-27: My daily commitment to sharpening problem-solving skills, data structures, and algorithmic logic.
-  
+### 🧮 Algorithmic Engine
+
+<table>
+<tr>
+<td width="100%">
+
+**[algorithmxlr8-submission-2026-07-27](https://github.com)**
+Structured tracking system for algorithmic problem-solving — logging DSA pattern coverage 
+and performance analysis in Java.
+
+- 📊 Pattern-based classification of solved problems
+- 🕒 Performance and complexity tracking across submissions
+- 🧩 Built for systematic, measurable skill progression
+
+</td>
+</tr>
+</table>
+
 ---
 
-### 🎯 Core Focus & Roles
-I am actively looking for **Software Engineer (SWE)**, **SDE**, and **AI/ML Engineer** opportunities. If you'd like to collaborate on a project or have an open role, let's connect!
+### 🛠️ Tech Stack
 
-📫 **How to reach me:** rishabhbhawsar53@gmail.com | https://in.linkedin.com/in/rishabh-bhawsar-409098262
+**Languages**
+<p>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+</p>
+
+**AI & Data**
+<p>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+</p>
+
+**Backend & Data Layer**
+<p>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+</p>
+
+**DevOps & Tooling**
+<p>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+<img src="https://shields.io"/>
+</p>
+
+---
+
+### 📫 Reach Me
+
+<p>
+<a href="mailto:rishabhbhawsar53@gmail.com">
+<img src="https://shields.io"/>
+</a>
+<a href="https://linkedin.com" target="_blank">
+<img src="https://shields.io"/>
+</a>
+</p>
