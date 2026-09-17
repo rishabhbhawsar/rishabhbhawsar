@@ -37,7 +37,7 @@ business taxonomies onto unstructured merchant profiles.
 
 ---
 
-### 🧮 Algorithmic Engine
+### 🧮 DSA Progress
 
 <table>
 <tr>
