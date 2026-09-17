@@ -45,7 +45,7 @@ business taxonomies onto unstructured merchant profiles.
 
 **[Leetcode DSA Submissions](https://github.com/rishabhbhawsar/Leetcode-DSA-Submissions)**
 Centralized repository tracking algorithmic problem-solving patterns, optimized for time/space efficiency.
-- 🛠️ **Core Focus:** Dynamic Programming, Graph Algorithms, and Advanced Data Structures implemented in **Python / Java**.
+- 🛠️ **Core Focus:** Dynamic Programming, Graph Algorithms, and Advanced Data Structures implemented in **Java**.
 - 📊 **Metrics:** Documented runtime complexities ($O(N)$ target) and custom optimization notes for complex cases.
 
 </td>
