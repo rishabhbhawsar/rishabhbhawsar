@@ -44,13 +44,7 @@ business taxonomies onto unstructured merchant profiles.
 <td width="100%">
 
 **[algorithmxlr8-submission-2026-07-27](https://github.com/rishabhbhawsar/algorithmxlr8-submission-2026-07-27)**
-Structured tracking system for algorithmic problem-solving — logging DSA pattern coverage 
-and performance analysis in Java.
-
-- 📊 Pattern-based classification of solved problems
-- 🕒 Performance and complexity tracking across submissions
-- 🧩 Built for systematic, measurable skill progression
-
+My DSA solution submission on platform https://algorithmxlr8.io/ 
 **[DSA](https://github.com/rishabhbhawsar/DSA)** — LeetCode submissions, tracked in parallel for raw problem-solving volume.
 
 </td>
