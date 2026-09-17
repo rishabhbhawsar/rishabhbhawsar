@@ -43,10 +43,18 @@ business taxonomies onto unstructured merchant profiles.
 <tr>
 <td width="100%">
 
-**[algorithmxlr8-submission-2026-07-27](https://github.com/rishabhbhawsar/algorithmxlr8-submission-2026-07-27)**
-My DSA solution submission on platform https://algorithmxlr8.io/ 
+**[Leetcode DSA Submissions](https://github.com/rishabhbhawsar/Leetcode-DSA-Submissions)**
+Centralized repository tracking algorithmic problem-solving patterns, optimized for time/space efficiency.
+- 🛠️ **Core Focus:** Dynamic Programming, Graph Algorithms, and Advanced Data Structures implemented in **Python / Java**.
+- 📊 **Metrics:** Documented runtime complexities ($O(N)$ target) and custom optimization notes for complex cases.
 
-**[DSA](https://github.com/rishabhbhawsar/DSA)** — LeetCode submissions, tracked in parallel for raw problem-solving volume.
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**[algorithmxlr8-submission-2026-07-27](https://github.com/rishabhbhawsar/algorithmxlr8-submission-2026-07-27)**
+Competitive programming and assessment submissions hosted on the [algorithmxlr8](https://algorithmxlr8.io/) platform.
 
 </td>
 </tr>
