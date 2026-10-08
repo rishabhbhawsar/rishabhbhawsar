@@ -34,15 +34,16 @@ Evaluates business listings against market-specific KYC taxonomy rules and retur
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://icp-policy-evaluator.vercel.app/)
 [![Source](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhbhawsar/icp-policy-evaluator)
 
-**Key results:** validated system reliability against a hand-labeled benchmark suite · achieved 100% schema-valid verdicts across the full error taxonomy · ~38% transient upstream failure rate surfaced and contained by validation gating
+**Key results:** 28-case hand-labeled adversarial benchmark · Precision 1.00 · Recall 0.82 · 93% accuracy · 0 false positives across runs · ~21% transient upstream failure rate surfaced and contained by validation gating
 
-`Python` `FastAPI` `Pydantic V2` `asyncio` `SQLite (WAL)` `OpenAI SDK` `Tenacity`
+`Python` `FastAPI` `Pydantic V2` `asyncio` `SQLite (WAL)` `Groq` `Tenacity`
 
-- **Data contracts:** Pydantic V2 validates every request and every model response. Schema-violating output is rejected before it becomes a verdict.
-- **Async caching:** content-hashed keys in asynchronous SQLite (WAL mode) skip repeat network calls.
-- **Defensive error handling:** a 6-mode failure framework with Tenacity exponential backoff and jitter, plus semaphore-based concurrency limits.
-- **Testing:** an offline parallel batch harness runs the labeled benchmark with no manual review step.
-- **Engineering finding:** the benchmark exposed the non-deterministic behavior of free-tier model routing (~38% transient failures), which is why schema validation and retries sit in front of every verdict.
+- **Data contracts:** Pydantic V2 validates every request and every model response, including cross-field consistency between classification and risk level. Schema-violating output is rejected before it becomes a verdict.
+- **Async caching:** content-hashed keys in asynchronous SQLite (WAL mode) skip repeat network calls — verified under test to bypass the judge entirely on a cache hit.
+- **Defensive error handling:** a typed failure taxonomy (schema violations, token truncation, provider refusals, empty bodies) with Tenacity exponential backoff, jitter, and semaphore-based concurrency control.
+- **Testing:** an automated benchmark harness runs 28 labeled cases spanning compliant, ambiguous, explicit-denial, surface-risk-but-compliant, prompt-injection, and public-company-exemption categories with no manual review step.
+- **Adversarial robustness:** the judge resists prompt-injection and field-spoofing attempts without additional guardrails.
+- **Engineering finding:** the benchmark exposed a ~21% transient upstream failure rate on the free tier, which is why schema validation and retries sit in front of every verdict.
 
 ---
 
