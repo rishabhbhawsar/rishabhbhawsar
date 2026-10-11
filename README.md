@@ -82,14 +82,35 @@ Reduces operational alert fatigue by clustering raw log streams and routing seve
 
 ---
 
+## Tech Stack
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://pytorch.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+</p>
+
+---
+
 ## Technical Skills
 
 | Area | Tools |
 |:--|:--|
-| **Backend** | Python, FastAPI, Asyncio, Pydantic, Tenacity, SQL, SQLite, MongoDB |
-| **Machine Learning** | XGBoost, Scikit-Learn, PyTorch, TensorFlow, Pandas, NumPy, SciPy, joblib, DBSCAN, PCA, LDA, Time-Series Forecasting |
-| **GenAI & NLP** | LLM-as-a-Judge, RAG, Prompt Engineering, OpenAI SDK, LangChain, LangGraph, Transformers |
-| **MLOps & Tooling** | Git, GitHub, Docker, Kubernetes, CI/CD, pytest, Drift Monitoring (PSI, KS), Vercel, Render |
+| **Backend** | Python, Java, FastAPI, Asyncio, Pydantic, Tenacity, SQL, SQLite, PostgreSQL, MongoDB |
+| **Machine Learning** | XGBoost, Scikit-Learn, PyTorch, TensorFlow, Pandas, NumPy, SciPy, joblib |
+| **GenAI & NLP** | LLM-as-a-Judge, RAG, Prompt Engineering, OpenAI SDK, Groq, LangChain, LangGraph, Transformers |
+| **MLOps & Tooling** | Git, GitHub, Docker, GitHub Actions, pytest, Vercel, Render, Linux |
 | **Frontend** | HTML, CSS, JavaScript |
 
 ---
@@ -104,6 +125,10 @@ Algorithm practice in Java (dynamic programming, graphs, data structures): [Leet
 ---
 
 <div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhbhawsar&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhbhawsar&layout=compact&theme=dark&hide_border=true)
 
 **Open to Software Engineering and ML Engineering roles.** [Email](mailto:rishabhbhawsar53@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rishabh-bhawsar-409098262/)
 
