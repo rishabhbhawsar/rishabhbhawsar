@@ -18,9 +18,9 @@ I build ML and LLM systems that behave like dependable services: strict data con
 
 ## Currently
 
-- **Building:** porting the XGBoost Mainframe Forecaster to an Apache Kafka streaming inference simulation path and optimizing the Alert Clustering Engine
-- **Practicing:** dynamic programming and graph algorithms in Java
-- **Looking for:** entry-level Software Engineering and ML Engineering roles
+- **Building:** AgentFlow — a multi-agent research assistant with LangGraph, MCP tool calling, Chroma, and a RAGAS-style evaluation harness.
+- **Deepening:** MLOps practice with Docker, GitHub Actions, and cloud deployment.
+- **Looking for:** Entry-level AI Engineer roles, remote or Bengaluru/Hyderabad/Mumbai.
 
 ---
 
